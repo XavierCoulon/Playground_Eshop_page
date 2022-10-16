@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./shop.css" />
+    <title>Shop</title>
+  </head>
+  <body>
+    <div class="admin-form">
+      <form action="submit">
+        <input type="text" name="model" id="model" placeholder="model" />
+        <input type="text" name="brand" id="brand" placeholder="brand" />
+        <input type="text" name="price" id="price" placeholder="price" />
+        <input
+          type="text"
+          name="description"
+          id="description"
+          placeholder="description"
+        />
+        <input type="text" name="img" id="img" placeholder="img" />
+        <button id="btn-insert">Insert</button>
+      </form>
+    </div>
+
+    <div class="search-form">
+      <form action="#">
+        <input type="text" name="search" id="search" placeholder="search" />
+      </form>
+    </div>
+
+    <section></section>
+
+    <div id="modal"></div>
+    <div class="no-result">
+      <h2>Oups, no results...</h2>
+      <img src="./assets/sniker.png" alt="sniker picture" />
+    </div>
+
+    <script src="./shop.js"></script>
+  </body>
+</html>

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "model": "Dunk Low Next Nature Black White",
+    "brand": "Nike",
+    "description": "La marque au <b>Swoosh</b> continue d'étoffer sa gamme Next Nature avec une Dunk Low reprenant le coloris de l'une des Dunk les plus populaires : la Nike Dunk Low Black White ! La <b>Nike Dunk</b> Low Next Nature Black White affiche une base en cuir synthétique blanc, relevée par des empiècements noir venant accentuer le contraste. On note un branding Nike sur la languette et le talon. Une midsole blanche couplée à une outsole noire viennent peaufiner l'ensemble. Composé à plus de 50% de matières recyclées, cette Dunk Low s'impose comme une alternative éco-responsable à l'un des plus gros hits de l'année !",
+    "price": 210,
+    "img": "../assets/id1.webp"
+  },
+  {
+    "id": "2",
+    "model": "Air Jordan 11 Low IE Light Orewood Brown",
+    "brand": "Air Jordan",
+    "description": "Signature shoe préférée de Michael Jordan, la Air Jordan 11 est de retour dans sa version low et International Exclusive. La Air Jordan 11 Low IE Light Orewood Brown affiche une base en toile blanche. On retrouve ensuite du cuir et du cuir synthétique, le tout dans un coloris toujours très neutre. Des empiècements perforés recouvrent les deux panneaux latéraux dans une teinte beige. Épurée et efficace, cette nouvelle version de la AJ1 Low rend hommage avec élégance à MJ.",
+    "price": 250,
+    "img": "../assets/id2.webp"
+  },
+  {
+    "id": "3",
+    "model": "550 White Red",
+    "brand": "New Balance",
+    "price": 160,
+    "description": "Remise sur le devant de la scène au travers de la collaboration avec Aimé Léon Dore, la New Balance 550 fait son grand retour au travers d'inspirations retro et de colorblocking originaux. La New Balance 550 White Red présente une base mêlant cuir perforé et lisse. Côté couleurs, on note une dominance de blanc, relevée par des rappels de rouge sur le col et de noir sur l'outsole et le quarter panel. On retrouve l'habituel branding New Balance ainsi qu'un tag 550 près des lacets de la silhouette. Maintenant disponible dans une large sélection de coloris, la New Balance 550 est une silhouette simple aux inspirations vintage, parfaite pour compléter votre rotation sneakers.",
+    "img": "../assets/id3.webp"
+  },
+  {
+    "id": "4",
+    "model": "2002R Protection Pack Pink",
+    "brand": "New Balance",
+    "price": 310,
+    "description": "La New Balance 2002R Protection Pack Pink présente une base qui associe mesh, cuir lisse et suède. Cette nouvelle version présente un design penchant vers des coloris rose. Celle-ci affiche un jeu de couleurs allant du rose chair à un rose dans les teintes pourpre ou violine. Le logo New Balance se pare lui aussi de rose entouré de blanc. L'aspect déconstruit est apporté par l'effet brut des bords de chaque empiècement et de la languette. Une semelle grise couplant les technologies N-Ergy et ABZORB finalise l'ensemble. Reconnue pour être la plus performante et la plus qualitative de la gamme, la silhouette sortie en 2010 revient fort sur la scène sneakers ! ",
+    "img": "../assets/id4.webp"
+  },
+  {
+    "id": "5",
+    "model": "Yeezy 700 V3 Safflower",
+    "brand": "Adidas",
+    "price": 300,
+    "description": "Reconnaissable au premier coup d’oeil grace à sa shape futuriste, la Yeezy 700 V3 adopte des teintes jaune orangé de saison, proches de celles du safran dont elle tient son nom. La Adidas Yeezy 700 V3 Safflower affiche la construction habituelle du modèle, composée de matériaux variés. La cage caractéristique des 700 V3 en TPU glow in the dark blanc cassé laisse apparaitre des empiècements en Primeknit jaune orangé. Un empiècement sur la toebox et une semelle qui tire sur le beige s’associent parfaitement à la base pour un design tout en nuance. On y retrouve enfin une languette noire en néoprène accordée aux lacets, qui se démarquent du reste de l’empeigne et créent du contraste. Après deux premières itérations plutôt sobres, la marque aux trois bandes expérimente des coloris plus audacieux, à l’instar de la Yeezy 700 V3 Arzareth.",
+    "img": "../assets/id5.webp"
+  },
+  {
+    "id": "6",
+    "model": "Yeezy Boost 350 V2 Core Black Red",
+    "brand": "Adidas",
+    "price": 300,
+    "description": "Silhouette vedette de l'univers Yeezy, la 350 V2 profite du Yeezy Day pour faire son retour. La Adidas Yeezy Boost 350 V2 Core Black Red conserve sa shape emblématique et s'enfile toujours comme un chausson. Composé d'un upper en Primeknit noir qui se voit être contrasté par une bande rouge couleur lave sur laquelle on peut lire SPLY-350 en noir. Pour couronner le tout, cette paire repose sur une épaisse semelle Boost noire légèrement translucide. Modèle emblématique du label de Kanye West, cette 350 V2 revient après une première sortie datant de 2016.",
+    "img": "../assets/id6.webp"
+  },
+  {
+    "id": "7",
+    "model": "Yeezy 700 Enflame Amber",
+    "brand": "Adidas",
+    "price": 360,
+    "description": "En parallèle de la sortie de la collaboration avec Gap, le rappeur de Chicago dévoile une nouvelle Yeezy 700 Enflame Amber, qui n'est pas sans rappeler l'édition Yeezy 700 Sun. La Adidas Yeezy 700 Enflame Amber reprend un mélange de mesh, cuir et suède avec une tonalité de couleur brune, allant du beige clair au noir. L'ensemble est relevé par l'imposante semelle Boost orange ainsi qu'un léger rappel de bleu sur l'empeigne. Une outsole noire vient compléter la création. Avec un design puisant son inspiration dans les lignes de la Yeezy 700 Wave Runner, cette nouvelle édition reprend un coloris des plus estivaux !",
+    "img": "../assets/id7.webp"
+  },
+  {
+    "id": "8",
+    "model": "Yeezy QNTM BSKTBL Frozen Blue",
+    "brand": "Adidas",
+    "price": 330,
+    "description": "En parallèle de la sortie de la collaboration avec Gap, le rappeur de Chicago dévoile une nouvelle Yeezy 700 Enflame Amber, qui n'est pas sans rappeler l'édition Yeezy 700 Sun. La Adidas Yeezy 700 Enflame Amber reprend un mélange de mesh, cuir et suède avec une tonalité de couleur brune, allant du beige clair au noir. L'ensemble est relevé par l'imposante semelle Boost orange ainsi qu'un léger rappel de bleu sur l'empeigne. Une outsole noire vient compléter la création. Avec un design puisant son inspiration dans les lignes de la Yeezy 700 Wave Runner, cette nouvelle édition reprend un coloris des plus estivaux !",
+    "img": "../assets/id8.webp"
+  },
+  {
+    "id": "9",
+    "model": "Dunk Low Archeo Pink",
+    "brand": "Nike",
+    "price": 200,
+    "description": "Quelques semaines après la sortie de la Nike Dunk Low Spartan Green, la firme de Beaverton signe une nouvelle Nike Dunk Low reprenant une couleur rose bonbon. La Nike Dunk Low Archeo Pink affiche l'habituelle base en cuir blanc, rehaussée par des empiècements en cuir rose. Le schéma de couleur se poursuit jusque dans les semelles avec la midsole et l'outsole. On note la présence de lacets assorties aux empiècements de l'empeigne pour accentuer le contraste. Nike ne se lasse pas de son hit et continue d'imaginer des déclinaisons toujours plus colorées !",
+    "img": "../assets/id9.webp"
+  },
+  {
+    "id": "10",
+    "model": "Dunk Low SE Sun Club",
+    "brand": "Nike",
+    "price": 155,
+    "description": "Le géant du sportswear célèbre l'été avec cette édition spéciale de la Dunk Low qui sent bon les vacances et les journées ensoleillées ! La Nike Dunk Low SE Sun Club présente une base en textile blanc composée à partir de matériaux recyclés. Des superpositions de cuir pastel s'ajoutent à la structure et affichent des tons bleus, roses, jaunes, verts et mauves. Plusieurs broderies Sun Club s'ajoutent au quarter panel de la lowtop. Un deubré en forme de bambou orne le bas des lacets. Chaque chaussure détient ses propres couleurs et dévoile un effet mismatch (dépareillé). Une semelle blanche aux motifs speckle complète le upper et se laisse sublimer par une outsole marron en Nike Grind. Douce et colorée, la nouvelle silhouette estivale de Nike possède une conception éco-responsable ! ",
+    "img": "../assets/id10.webp"
+  },
+  {
+    "id": "11",
+    "model": "Yeezy 500 High Sumac",
+    "brand": "Adidas",
+    "price": 325,
+    "description": "Kanye West et adidas ont redonné vie à la silhouette Yeezy 500 en 2021, en lançant le modèle en trois coloris au premier semestre. À la suite du plus récent “Frosted Blue”, deux autres coloris rejoindront la gamme très prochainement : Sumac et Tactile Orange. LaAdidas Yeezy 500 High Sumac tire son nom des empiècements en cuir rouge vif qui habillent la tige, une nuance de rouge semblable à celle des baies de sumac sauvages. Le reste de la chaussure est principalement disponible en marron, y compris les panneaux supérieurs en mesh et la semelle adiPRENE. Une touche de bleu indigo est également incorporée dans son design. Coloris montagnard, silhouettemontante et matériauxpremiums, cette nouvelle édition tombe à pic pour vos baladesprintanières.",
+    "img": "../assets/id11.webp"
+  }
+]

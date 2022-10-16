@@ -1,0 +1,132 @@
+*,
+::after,
+::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  --body-color: white;
+  --nav-footer-color: #393939;
+  --body-font-color: black;
+  --nav-footer-font-color: white;
+  --font-size: 1rem;
+  --font-family: "Poppins", sans-serif;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: var(--body-color);
+  font-size: var(--font-size);
+  color: var(--body-font-color);
+  font-family: var(--font-family);
+}
+
+section {
+  position: relative;
+  width: 100%;
+  top: 70px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  max-width: 1024px;
+  grid-gap: 10px;
+  /* To be explained... */
+  padding-bottom: 4.5rem;
+}
+
+h3 {
+  padding-bottom: 10px;
+  cursor: pointer;
+}
+
+.shop-title {
+  display: none;
+}
+
+.admin-form {
+  display: none;
+  position: relative;
+  top: 70px;
+}
+
+.search-form {
+  position: relative;
+  top: 70px;
+}
+
+.search-form input {
+  font-size: 1rem;
+  margin: 5px;
+}
+
+.active {
+  display: inline;
+}
+
+.opacity_light {
+  opacity: 0.5;
+}
+
+.card-sneaker {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  border-radius: 5px;
+  background-color: var(--color);
+  width: 100%;
+  padding: 10px;
+}
+
+.card-sneaker img {
+  width: 90%;
+  height: auto;
+  display: block;
+  max-width: 350px;
+  max-height: 350px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+#modal {
+  display: none;
+  position: fixed;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid;
+  border-radius: 10px;
+  width: 60%;
+  min-width: 300px;
+  height: 40%;
+  z-index: 1000;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /* overflow-x: hidden;
+  overflow-y: auto; */
+}
+
+#modal img {
+  width: 50%;
+  height: auto;
+}
+
+.modal-details {
+  padding: 10px;
+}
+
+.no-result {
+  display: none;
+  position: fixed;
+  text-align: center;
+  width: 40%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.no-result img {
+  width: 50%;
+}
